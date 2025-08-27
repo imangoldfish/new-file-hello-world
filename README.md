@@ -14,3 +14,7 @@ i will try to get on track to learning coding again
 
 learning VScode proper, git and all that
 i wonder if im stupid or Windows is just that Retarded
+
+5:36Am:
+pushed the above msg using vscode bash terminal less gooo!1
+idk if its even a big deal but ayyy B)
