@@ -9,3 +9,8 @@ i think i will go with C
 i kinda forgor about this lol, but i have taken a intrest in low level hardware and programing, binge watching history of computers, making computers from scratch in minecraft... man computer engineering looks fun
 
 i will try to get on track to learning coding again 
+
+27/8/25 5:31AM:
+
+learning VScode proper, git and all that
+i wonder if im stupid or Windows is just that Retarded
