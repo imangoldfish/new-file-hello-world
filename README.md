@@ -18,3 +18,9 @@ i wonder if im stupid or Windows is just that Retarded
 5:36Am:
 pushed the above msg using vscode bash terminal less gooo!1
 idk if its even a big deal but ayyy B)
+
+
+29/8/25 4:54PM:
+
+i think im now understanding how to use git, maybe i did a good thing learning git before actuallly starting C tutorials 
+now just need to stick to learning and not procrastinate and forget about this (again) lol..
